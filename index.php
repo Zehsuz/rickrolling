@@ -61,8 +61,6 @@ if (isset($smartProcessItems['result']['items'])) {
 }
 
 // результат
-echo "Результаты анализа CRM\n";
-echo "=======================\n";
 
 // контакты с заполненным полем COMMENTS
 echo "Контакты с заполненным полем COMMENTS: $countContactsWithComments\n";
